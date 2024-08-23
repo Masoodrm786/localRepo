@@ -72,5 +72,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or feedback, please contact:
 
-- **Masood Ahmad** - [masood86@gmail.com](mailto:masood86@gmail.com)
+- **Masood Ahmad** - [inmasood86@gmail.com](mailto:inmasood86@gmail.com)
 - GitHub: [https://github.com/MasoodAhmad](https://github.com/MasoodAhmad)
